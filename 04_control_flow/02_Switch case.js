@@ -36,3 +36,5 @@ switch(month){
             break;
     }
 }
+
+//we can use chartractor as case number in switch 
