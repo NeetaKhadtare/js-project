@@ -41,7 +41,6 @@ val1=null ?? 10 ?? 15   //10
 
 console.log(val1);
 
-
 // Ternary operator
 // Syntax :  condition ? true : false
 
